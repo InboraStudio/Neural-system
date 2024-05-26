@@ -1565,24 +1565,6 @@ frameworks, then Ivy is for you!
 
 ------------------------------------------------------------------------
 
-# Contributing
-
-
-We believe that everyone can contribute and make a difference. Whether
-it\'s writing code 💻, fixing bugs 🐛, or simply sharing feedback 💬,
-your contributions are definitely welcome and appreciated 🙌
-
-Check out all of our open tasks, and find out more info in our
-[Contributing
-guide](https://unify.ai/docs/ivy/overview/contributing.html) in the
-docs!
-
-Join our amazing community as a code contributor, and help accelerate
-our journey to unify all ML frameworks!
-
-<a href="https://github.com/unifyai/ivy/graphs/contributors">
-  <img class="dark-light" src="https://contrib.rocks/image?repo=unifyai/ivy&anon=0&columns=20&max=100&r=true" />
-</a>
 
 ------------------------------------------------------------------------
 
