@@ -1586,30 +1586,7 @@ our journey to unify all ML frameworks!
 
 ------------------------------------------------------------------------
 
-# Community
 
-
-In order to achieve the ambitious goal of unifying AI, we definitely need
-as many hands as possible on it! Whether you are a seasoned developer or
-just starting out, you\'ll find a place here! Join the Ivy community on
-our [Discord](https://discord.gg/sXyFF8tDtm) 👾 server, which is the
-perfect place to ask questions, share ideas, and get help from both
-fellow developers and the Ivy Team directly!
-
-Also! Feel free to follow us on
-[Twitter](https://twitter.com/letsunifyai) 🐦 as well, we use it to
-share updates, sneak peeks, and all sorts of relevant news, certainly a
-great way to stay in the loop 😄
-
-Can\'t wait to see you there!
-
-------------------------------------------------------------------------
-
-# Citation
-
-If you use Ivy for your work, please don\'t forget to give proper credit
-by including the accompanying [paper](https://arxiv.org/abs/2102.02886)
-📄 in your references. It\'s a small way to show appreciation and help
 to continue to support this and other open source projects 🙌
 
 
