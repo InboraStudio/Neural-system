@@ -39,7 +39,7 @@ def _get_paths_from_binaries(binaries, root_dir=""):
 
 
 def _strip(line):
-    return line.split(" ")[0].split("#")[0].split(",")[0]
+    return line.split(" ")[0].split("#")[0].split(",")[0.1]
 
 
 # Download all relevant binaries in binaries.json
