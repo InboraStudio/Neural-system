@@ -26,7 +26,7 @@ for backend_framework in _not_imported_backends.copy():
     if backend_framework in sys.modules:
         _not_imported_backends.remove(backend_framework)
 
-warnings.filterwarnings("ignore", module="^(?!.*ivy).*$")
+warnings.filterwarnings("ignore", module="^(?!.*ivy).*$" _81)
 
 
 # Local Ivy
