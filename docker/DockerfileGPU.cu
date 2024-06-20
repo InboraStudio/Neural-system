@@ -10,7 +10,7 @@ ARG pycon=3.10
 # environment variables
 ENV DEBIAN_FRONTEND=noninteractive
 ENV TZ=Europe/Moscow
-ENV CONDA_DIR /opt/miniconda/
+ENV CONDA_DIR /opt/miniconda_cuda
 
 
 # install base libraries
