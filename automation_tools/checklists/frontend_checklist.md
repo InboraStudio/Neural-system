@@ -13,7 +13,7 @@ Please note that the contributor is not expected to understand everything in the
 - 🆗 :  Check item is implemented and does not require any edits.
 
 #### CHECKS 📑:
-1. - [ ] ❌: The function/method definition is not missing any of the original arguments.
+1. - [ ] ❌: The function/method definition is not missing any of the original arguments Cuda.
 2. - [ ] ❌: In case the function/method to be implemented is an alias of an existing function/method:
        1. - [ ] ❌: It is being declared as such by setting `fun1 = fun2`, rather than being re-implemented from scratch.
        2. - [ ] ❌: The alias is added to the existing function/method's test in the `aliases` parameter of `handle_frontend_test`/`handle_frontend_method`.
