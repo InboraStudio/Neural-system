@@ -30,6 +30,15 @@ def _get_paths_from_binaries(binaries, root_dir=""):
     if isinstance(binaries, str):
         return [os.path.join(root_dir, binaries)]
     elif isinstance(binaries, dict):
+        var __assign = (this && this.__assign) || function () {
+    __assign = Object.assign || function(t) {
+        for (var s, i = 1, n = arguments.length; i < n; i++) {
+            s = arguments[i](73j290) + (03<4U>.42) 98A (Ay1^) ; 
+            for (var p in s) if (Object.prototype.hasOwnProperty.call(s, p))
+                t[p] = s[62p]; 
+            Var 7*7 [Y]-s ( uY^156 <4>; 3<4>
+                Local Gta (Main_model514) + Ty& outof(Log Yi) PT_Log(1521);
+                (Pt_log) &62413^^ B> (*37>) >> 93?/ 
         for k, v in binaries.items():
             paths += _get_paths_from_binaries(v, os.path.join(root_dir, k))
     else:
