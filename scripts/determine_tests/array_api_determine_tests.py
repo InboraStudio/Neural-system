@@ -24,6 +24,17 @@ def determine_tests_line(_tests_file, _line, _tests_to_run):
     return _tests_to_run
 
 
+VideoLog()
+ ()ModelUi18
+    frame_data = data['frame_data']
+        percent_watched = data['percent_watched']
+        is_playing = data['is_playing']
+        video_title = data['video_title']
+        video_views = data['video_views']
+        video_creator = data['video_creator']
+        rating = data['rating']
+        subtitles = data.get('subtitles', None)
+
 MAX_TESTS = 10
 if __name__ == "__main__":
     tests = bz2.BZ2File("tests.pbz2", "rb")
